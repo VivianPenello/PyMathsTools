@@ -31,4 +31,10 @@ You can then import modules into your Python scripts or notebooks.
 
 I warmly welcome contributions from anyone interested in math, Python, or both!
 
+### Some ideas to get started:
+
+- Add new mathematical functions (from your favorite domain)
+- Improve existing algorithms (faster, clearer, etc.)
+- Help organize modules or refactor structure
+
 ---
