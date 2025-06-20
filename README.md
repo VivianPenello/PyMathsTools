@@ -38,7 +38,7 @@ For development :
 pip install -e .
 ```
 
-Or, for installing ut outside of the folder :
+Or, for installing it outside of the folder :
 
 ```
 pip install .
