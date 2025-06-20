@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PyMathsTool",
+    name="pymathstools",
     version="0.1.0",
     author="Vivian Penello",
     description="A modular Python library for a wide range of mathematical operations.",

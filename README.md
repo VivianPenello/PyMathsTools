@@ -1,6 +1,6 @@
 # PyMathsTools
 
-![License](https://img.shields.io/github/license/VivianPenello/PyMathsTool)
+![License](https://img.shields.io/github/license/VivianPenello/PyMathsTools)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![Project Status](https://img.shields.io/badge/status-experimental-orange)
@@ -25,15 +25,24 @@ Whether you're doing academic work, building a personal project, or just explori
 ## 🧰 How to Use
 
 As the functions propsed here may not be optimised, this project is not on PyPI. You can clone it and use it locally.
-
+```
 git clone https://github.com/VivianPenello/PyMathsTools.git
 cd PyMathsTool
+```
 
 You can then import modules into your Python scripts or notebooks.
 
 For development :
 
+```
 pip install -e .
+```
+
+Or, for installing ut outside of the folder :
+
+```
+pip install .
+```
 
 ---
 
