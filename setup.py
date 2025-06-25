@@ -9,4 +9,5 @@ setup(
     description="A modular Python library for a wide range of mathematical operations.",
     packages=find_packages(),
     python_requires=">=3.7",
+    include_package_data=True,
 )

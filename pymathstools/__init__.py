@@ -17,11 +17,13 @@ Explore math with code!
 #from . import geometry
 #from . import linear_algebra
 from . import statistic
+from . import functions
 
 __all__ = [
     #"calculus",
     #"complex",
     #"geometry",
     #"linear_algebra",
-    "statistic"
+    "statistic",
+    "functions"
 ]

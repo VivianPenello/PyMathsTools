@@ -1,10 +1,6 @@
 LICENSE
 README.md
 setup.py
-PyMathsTools.egg-info/PKG-INFO
-PyMathsTools.egg-info/SOURCES.txt
-PyMathsTools.egg-info/dependency_links.txt
-PyMathsTools.egg-info/top_level.txt
 pymathstools/__init__.py
 pymathstools.egg-info/PKG-INFO
 pymathstools.egg-info/SOURCES.txt
@@ -18,6 +14,9 @@ pymathstools/calculus/limit.py
 pymathstools/calculus/series_expansion.py
 pymathstools/complex/__init__.py
 pymathstools/complex/complex.py
+pymathstools/functions/__init__.py
+pymathstools/functions/functions.py
+pymathstools/functions/utilities.py
 pymathstools/geometry/__init__.py
 pymathstools/geometry/area.py
 pymathstools/geometry/perimeter.py
